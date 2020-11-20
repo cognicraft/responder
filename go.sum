@@ -1,0 +1,8 @@
+github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
+github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/cognicraft/hyper v0.1.14 h1:mPaC+s3ApU/733sW7bs/D2kvkEXmIVLFdx8b2PsuiMA=
+github.com/cognicraft/hyper v0.1.14/go.mod h1:rdypOsSfNqvVIlUj2H5ETGdQwM8MuPaL1bZd+eu1l50=
+github.com/cognicraft/icu v0.1.3 h1:/p39WtZHRu6o0DY7F+GoEMbsKi+U916kZdNJseSn0B0=
+github.com/cognicraft/icu v0.1.3/go.mod h1:USUscUKMwNzELgS6qthKp/dL7xj2ZK5NY8kpt0wUu10=
+github.com/cognicraft/uri v0.1.0 h1:jEcf8U8K3go/KgT6UEzpmg2g2F6fzVdgkVNNWCC//E4=
+github.com/cognicraft/uri v0.1.0/go.mod h1:9XFZ16Bom4ibGYnBNCWjL5szm0V3oFj35Mubk+LxpTo=
